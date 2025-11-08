@@ -1,6 +1,6 @@
 # Incident Response Bot
 
-Takes incident reports and figures out what type of attack it is. Made this for my senior project.
+Takes incident reports and figures out what type of attack it is.
 
 ## What it does
 - Chat interface for incident reports
@@ -19,4 +19,4 @@ $env:OPENAI_API_KEY="your-key"
 streamlit run app.py
 ```
 
-You need an OpenAI API key (the paid one, not ChatGPT Plus).
+I need an OpenAI API key .
